@@ -2,7 +2,7 @@
 
 I am a Senior iOS Developer with over 5 years experience. I have worked on a number of different apps which have been released into the store throughout the entire lifecycle of app development. From creating new projects, the development of the app, the release of the app, as well as maintaing existing apps, to adding new features and reducing techincal debt. 
 
-During my time at NN4M I have worked on a number of different apps, and given me a wide variety of experience in iOS development:
+During my time at NN4M I have worked on a number of different apps, and have managed to gain a wide variety of experience in iOS development:
 
 ## Selfridges
 This has been my main project during my time at NN4M, starting as a graduate developer and progrssing on to leading the project for iOS and Android. Durng this time, I led the continous development team in writing new features, identifying any techincal debt as we went along and ensuring that relevant tickets were created in order to resolve these issues.
