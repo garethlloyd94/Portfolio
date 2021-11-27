@@ -6,7 +6,7 @@ I have created an example app, showcasing my abilties in MVVM, Unit Testing and 
 
 During my time at NN4M I have worked on a number of different apps, and have managed to gain a wide variety of experience in iOS development:
 
-## Selfridges (/Images and Videos/SelfridesLogo.png)
+## Selfridges [SelfridgesLogo](/Images and Videos/SelfridesLogo.png)
 This has been my main project during my time at NN4M, starting as a graduate developer and progrssing on to leading the project for iOS and Android. During this time, I led the continous development team in writing new features, identifying any techincal debt as we went along and ensuring that relevant tickets were created in order to resolve these issues.
 
 I was also the lead developer during the complete re-write of this project. This was a great oppurtunity to fix a lot of the underlying techincal debt that had been making developmet difficult for the team. The project was initially written in Objective-C and we had added new features in Swift. The rewrite allowed us to change the base code of the app into Swift, so it is now a 100% Swift project. The other reason for the rewrite was the backend system was upgrading from a post and scrape solution to becoming fully API driven. This required me to work with the backend team, and design a solution which supported both the existing system, and the new system without any interuptions to the user experience.
