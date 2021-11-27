@@ -21,7 +21,7 @@ I also had the oppurtuntity to work on a demo verision of the Emirates app, whic
 
 ## ![Iceland](/Images/Iceland.png) Iceland
 
-I had recently written the new Forms Framkework for the iOS team and initially joined this project to implement this. This led on to me taking over the lead of the project, and taking this through to the release of the app. My main achievement within this app was a biometrics security system which involved a pin entry backup ensuring users didn't have to remember their login details, but their credentials were secured.
+I had recently written the new Forms Framework for the iOS team and initially joined this project to implement this. This led on to me taking over as lead of the project, and taking this through to the release of the app. My main achievement within this app was a biometrics security system which involved a pin entry backup ensuring users didn't have to remember their login details, but their credentials were secured.
 
 ## ![MintVelvet](/Images/MintVelvet.jpg) ![Coast](/Images/Coast.jpg) Mint Velvet, Coast (No longer in store)
 Early in my career I was the lead developer of these two new apps, involving me creating the projects from scratch, refining designs, and solutions, and development right through until the release of the app into the store.
@@ -29,9 +29,9 @@ Early in my career I was the lead developer of these two new apps, involving me 
 # Key Features
 
 ## Swipe-to-Like
-This was a Tinder-like swipe-to-like module that was featured on the homescreen for Selfridges. This was driven by the "new in" products, which were then filtered by the users favourite brands and categories. If users like a product, they simply swipe right, and then the product is added to the wishlist. If not, they would swipe left, ensuring they wouldn't see it again. This was a really successful feature and has become one of the most interaced with modules on the homescreen.
+This was a Tinder-like swipe-to-like module that was featured on the homescreen for Selfridges. This was driven by the "new in" products, which were then filtered by the users favourite brands and categories. If users like a product, they simply swipe right, and then the product is added to the wishlist. If not, they would swipe left, ensuring they wouldn't see it again. This was a really successful feature and has become one of the most interacted with modules on the homescreen.
 
 ![SwipeToLike](/Images/SwipeToLike.gif)
 
 ## Forms Framework
-The previous way of implementing forms was in Objective-C and was very difficult to work with, which was a massive pain point for developers. I wrote a Forms Framework which was a wrapper around Eureka (third party forms library), which is now used across a number of different projects within the company. This was designed to make forms as simple and flexible to develop as possible. The framework includes full validation, and is driven by a JSON file making it very simple to update the form.
+The previous way of implementing forms was in Objective-C and was very difficult to work with, and was a massive pain point for developers. I wrote a Forms Framework which was a wrapper around Eureka (third party forms library), which is now used across a number of different projects within the company. This was designed to make forms as simple and flexible to develop as possible. The framework includes full validation, and is driven by a JSON file making it very simple to update the form.
