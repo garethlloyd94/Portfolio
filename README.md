@@ -2,6 +2,8 @@
 
 I am a Senior iOS Developer with over 5 years experience. I have worked on a number of different apps which have been released into the store throughout the entire lifecycle of app development. From creating new projects, the development of the app, the release of the app, as well as maintaing existing apps, to adding new features and reducing techincal debt. 
 
+I have created an example app, showcasing my abilties in MVVM, Unit Testing and UI Testing which can be found [here](https://github.com/garethlloyd94/MovieFinder).
+
 During my time at NN4M I have worked on a number of different apps, and have managed to gain a wide variety of experience in iOS development:
 
 ## Selfridges
